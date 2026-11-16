@@ -1,0 +1,35 @@
+[functions.irfan-pending-task-alert]
+verify_jwt = false
+
+[functions.team-pending-task-alert]
+verify_jwt = false
+
+[functions.rostan-pending-task-alert]
+verify_jwt = false
+
+[functions.leave-notification]
+verify_jwt = false
+
+[functions.send-email]
+verify_jwt = false
+
+[functions.task-created-notification]
+verify_jwt = false
+
+[functions.attendance-task-check]
+verify_jwt = false
+
+[functions.test-attendance-email]
+verify_jwt = true
+
+[functions.holiday-chatbot]
+verify_jwt = false
+
+[functions.crm-assistant]
+verify_jwt = false
+
+[functions.admin-reset-password]
+verify_jwt = true
+
+[functions.screen-monitoring-signaling]
+verify_jwt = false

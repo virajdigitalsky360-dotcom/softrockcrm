@@ -1,0 +1,53 @@
+{
+  "projectId": "70126294",
+  "functions": {
+    "admin-reset-password": {
+      "hasChanged": false,
+      "hash": "7f32b61b5cd9326c4f48d49bde1c03b48445b2f3099d4ccd456b4ac7e129f9ec56aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "attendance-task-check": {
+      "hasChanged": false,
+      "hash": "845131f00adbe53bb0d33413c63cd9c5227c2c576914ba89edb479288d9d02db56aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "crm-assistant": {
+      "hasChanged": false,
+      "hash": "72acb4b78c51b2d4978a9d159332b2bd6f612fb3f430840015abaf5a42a0357756aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "holiday-chatbot": {
+      "hasChanged": false,
+      "hash": "e705782116f7c0ec74773dc7c150fce1625a1602c75496ffb6f0f6188f84eb2656aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "irfan-pending-task-alert": {
+      "hasChanged": false,
+      "hash": "0386c1c966e0693801ed95a6ff270c5d143df8b1ce0420607b3a325f26c0622156aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "leave-notification": {
+      "hasChanged": false,
+      "hash": "53f1fd5c61fac34dcd5df39661987ed3d5e0cfa8705526fe6bcafe311e981b1456aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "rostan-pending-task-alert": {
+      "hasChanged": false,
+      "hash": "12bc43bc40de31f01145f2d3316114d476b10420c4d915b99a0424ddc167625f56aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "screen-monitoring-signaling": {
+      "hasChanged": false,
+      "hash": "5dd6862954dcddc7ac402dc504b4a09a8984454bf9f9b6560449dbea75d77ad256aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "send-email": {
+      "hasChanged": false,
+      "hash": "0543b136ce6e2d94aee844d23085624e987ab2ef3ed47564a540ffa46776805656aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "task-created-notification": {
+      "hasChanged": false,
+      "hash": "e129926e5efcfd9180f8b66c3a9b7e7e26778f6db9da539bbe683c763cfac76756aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "team-pending-task-alert": {
+      "hasChanged": false,
+      "hash": "f7593ce9bced9c6a123b8b3a538d28d7748683716a2ae6e37c95ab87cd00cecb56aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    },
+    "test-attendance-email": {
+      "hasChanged": false,
+      "hash": "1bc0f12852882b0ab7370420465d144ddd432ebfe9eba230bb94715ef8d9042756aa430052e0600a6784e7e6555507fe7e250c716c2b2aec9ccfe51b082b9867"
+    }
+  }
+}
